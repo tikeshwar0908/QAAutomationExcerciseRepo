@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Product suite">
+	<test name = "Product Test">
+		<classes>
+			<class name = "ProductPageTest"/>
+		</classes>
+	</test>
+</suite>

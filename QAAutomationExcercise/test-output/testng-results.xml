@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-07-11T01:44:29 IST" name="Default suite" finished-at="2026-07-11T01:45:35 IST" duration-ms="66831">
+    <groups>
+    </groups>
+    <test started-at="2026-07-11T01:44:29 IST" name="Default test" finished-at="2026-07-11T01:45:35 IST" duration-ms="66831">
+      <class name="com.tests.Cart.CartPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tests.Cart.CartPageTest@3ba987b8]" started-at="2026-07-11T01:44:29 IST" name="setup" finished-at="2026-07-11T01:44:51 IST" duration-ms="22040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ProductAddToCart()[pri:1, instance:com.tests.Cart.CartPageTest@3ba987b8]" started-at="2026-07-11T01:44:51 IST" name="ProductAddToCart" finished-at="2026-07-11T01:45:35 IST" duration-ms="44753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductAddToCart -->
+      </class> <!-- com.tests.Cart.CartPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
